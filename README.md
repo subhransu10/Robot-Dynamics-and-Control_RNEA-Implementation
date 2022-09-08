@@ -1,1 +1,1 @@
-# Robot-Dynamics-and-Control_RNEA-Implementation
+# Robot-Dynamics-and-Control_RNEA Implementation
